@@ -63,6 +63,9 @@ Enjoy live data visualizations and the image gallery!
 
 Plug the sensor in wherever you'd like and gather real data on the air!
 
+*THINGSPEAK* 
+use the code in S_Q_U_AIR_v2_thingspeak.ino to upload the data to the open internet and get a shareable link. 
+Must sign up for an account at https://thingspeak.mathworks.com/ and enter the API key at the top of the *.ino code. 
 
 *SUPPORT*
 
@@ -72,5 +75,6 @@ Trevor J. Durning – trevorjdurning@gmail.com
 *LICENSE*
 
 MIT License – Free to use, modify & share. Give credit where it’s due!
+
 
 Thanks for using S.Q.U.AIR - DEMOCARTIZE AIR DATA - SHARE WITH YOUR FRIENDS
